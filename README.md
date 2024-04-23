@@ -10,8 +10,8 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 	3. Print the norm of the matrix in two decimal places.
 ## Program:
 ```Python
-# Register No:
-# Developed By:
+# Register No:rithika N
+# Developed By:212223230172
 # 1-Norm of a Matrix
 ```import numpy as np
 mat = np.array(eval(input()))
@@ -27,7 +27,7 @@ print(Norm_of_matrix)
 '''
 Program to find 2-norm of a matrix.
 Developed by: yourname:RITHIKA.N
-RegisterNumber: 23013374
+RegisterNumber: 212223230172
 '''
 import numpy as np
 mat=np.array(eval(input()))
@@ -54,22 +54,17 @@ print(norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>
-<br>![Screenshot 2023-12-26 103422](https://github.com/Rithikachezhian/Norm-of-a-matrix/assets/145742406/d402d6fb-04f6-42c3-bc15-f0e5e1823f2d)
 
-<br>
+![Screenshot 2024-04-23 115429](https://github.com/Rithikachezhian/Norm-of-a-matrix/assets/145742406/c9f4cd15-8af3-4ba2-b583-41c12de47b39)
 
 ### 2-Norm of a Matrix
-<br>
-<br>![Screenshot 2023-12-26 103434](https://github.com/Rithikachezhian/Norm-of-a-matrix/assets/145742406/399793cd-e409-46f4-883b-72be2be56e7c)
 
-<br>
+![Screenshot 2024-04-23 115443](https://github.com/Rithikachezhian/Norm-of-a-matrix/assets/145742406/3cc4044d-5e4f-40b3-8a06-2f7b44d87913)
 
 ### Infinity Norm of a Matrix
-<br>
-<br>![Screenshot 2023-12-26 103447](https://github.com/Rithikachezhian/Norm-of-a-matrix/assets/145742406/5122e6f9-93d9-4431-87ca-755293330fc9)
 
-<br>
+![Screenshot 2024-04-23 115457](https://github.com/Rithikachezhian/Norm-of-a-matrix/assets/145742406/d436a9a6-cd69-4438-a479-5f8360e11091)
+
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
